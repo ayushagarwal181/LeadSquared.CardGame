@@ -1,0 +1,6 @@
+C:\Users\ayush\Desktop\LeadSquared.CardGame\src\CardGame\bin\Debug\CardGame.exe.config
+C:\Users\ayush\Desktop\LeadSquared.CardGame\src\CardGame\bin\Debug\CardGame.exe
+C:\Users\ayush\Desktop\LeadSquared.CardGame\src\CardGame\bin\Debug\CardGame.pdb
+C:\Users\ayush\Desktop\LeadSquared.CardGame\src\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\ayush\Desktop\LeadSquared.CardGame\src\CardGame\obj\Debug\CardGame.exe
+C:\Users\ayush\Desktop\LeadSquared.CardGame\src\CardGame\obj\Debug\CardGame.pdb
